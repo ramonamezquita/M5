@@ -1,0 +1,3 @@
+pyspark==3.5.0
+tsfresh==0.21.0
+pyarrow==21.0.0
